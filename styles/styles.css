@@ -1,0 +1,35 @@
+h2{
+    color: #8CC0DE;
+}
+h1{
+    color: #65647C;
+}
+   
+body.p{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.presentation{
+    background-color: #D2DAFF;   
+}
+/*partie gauche du cv*/
+.Partie1{
+    background-color: #EEF1FF;
+    width: 75%;
+    float: left;
+    height: 75%;
+
+}
+#chapeau{
+    width: 300px;
+    height: auto;
+}
+.Conteneur{
+    height: 75%;
+}
+/*partie droite du cv*/
+.Partie2{
+    float: right;
+    width: 24%;
+    height: 75%;
+}
